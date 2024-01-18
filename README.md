@@ -7,3 +7,7 @@
 - clone or download the repo
 - unzip and place the file where you want it
 - add the wallpaper as you would do for a webpage but instead of the link use the path of index.html
+
+### TODO
+
+- make it possible to edit the wallpaper in lively
